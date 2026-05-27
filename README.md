@@ -1,4 +1,3 @@
-# 3-Tier Guestbook Project
 Rocky Linux 9 환경에서 Web-WAS-DB 3계층 구조를 구축하는 실습 프로젝트입니다.
 
 ## 1. 사전 준비
